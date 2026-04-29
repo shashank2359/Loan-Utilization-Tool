@@ -1,5 +1,10 @@
 # Loan Utilization Tracking System
 
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+
 ## 📌 Overview
 The Loan Utilization Tracking System is a full-stack web application designed to manage loan applications and track their approval process. It provides role-based access where users can apply for loans and administrators can review, approve, or reject applications.
 
